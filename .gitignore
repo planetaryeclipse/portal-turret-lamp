@@ -1,0 +1,3 @@
+*.wav
+*.weights
+**/__pycache__
